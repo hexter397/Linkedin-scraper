@@ -3,8 +3,6 @@
 ![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)
 ![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-yellow.svg)
 
-LinkedIn Data Scraper is a powerful open-source tool designed to extract valuable data from LinkedIn. It leverages technologies such as Scrapy, Selenium WebDriver, Chromium, Docker, and Python3 to navigate LinkedIn profiles and gather insightful information.
-
 ## Features
 
 ### Profile Data Extraction
